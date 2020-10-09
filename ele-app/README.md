@@ -1,29 +1,5 @@
-# ele-app
+# vueDemo-elema
+这是一个仿饿了么移动端vue项目练习，采用 vue-cli 创建项目。
 
-## Project setup
-```
-npm install
-```
+> ​	写在前面：这是一个仿支付宝饿了么的一个vue项目，正在整理中......
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

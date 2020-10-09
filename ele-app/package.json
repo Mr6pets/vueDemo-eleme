@@ -21,5 +21,9 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "```\r npm install\r ```",
+  "main": "babel.config.js",
+  "author": "alvis",
+  "license": "ISC"
 }
