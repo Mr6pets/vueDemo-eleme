@@ -1,4 +1,4 @@
-# eleme-app
+# ele-app
 
 ## Project setup
 ```
