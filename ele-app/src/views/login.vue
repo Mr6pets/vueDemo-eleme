@@ -2,6 +2,7 @@
   <div class="login">
     <div class="logo">
       <img src="../assets/logo.jpg" alt="my login image" />
+			
     </div>
   </div>
 </template>

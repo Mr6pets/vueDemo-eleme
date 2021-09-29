@@ -7,12 +7,12 @@ const routes = [
   {
     path: '/',
     name: 'index',
-    component: ()=>import('../views/index.vue')//按需加载
+    component: ()=>import('./views/index.vue')//按需加载
     },
     {
       path: '/login',
       name: 'login',
-      component:()=>import('../views/login.vue')
+      component:()=>import('./views/login.vue')
     }
 ]
 
