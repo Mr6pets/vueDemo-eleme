@@ -27,7 +27,7 @@ router.beforeEach((to, from, next) => {
   const isLogin = localStorage.ele_login ? true : false;//local中取 有这个值代表登录状态
   if (to.path == '/login') {//如果路由界面是/login 继续执行
     next();
-  } else {//路由守卫回登录也面
+  } else {//路由守卫回登录页面
     isLogin ? next() : next('/login');
   }
 });
