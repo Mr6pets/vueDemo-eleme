@@ -37,7 +37,6 @@ export default {
   box-sizing: border-box;
   background: #fff;
 }
-
 .logo {
   text-align: center;
 }
