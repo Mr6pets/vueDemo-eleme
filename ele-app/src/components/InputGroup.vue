@@ -23,6 +23,7 @@
       },
       value:String,//输入框绑定的值
       placeholder:String,
+      name:String,
       btnTitle:String,//这是是点击获取验证码
       disabled:Boolean,//是否显示布尔值
       error:String,//错误提示

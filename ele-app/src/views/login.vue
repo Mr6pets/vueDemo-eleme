@@ -3,9 +3,7 @@
     <div class="logo">
       <img src="../assets/logo.jpg" alt="my login image" />
 			<!-- 手机号码的输入 -->
-      <inputGroup 
-        type="number"
-       />
+      <inputGroup type="number" placeholder="请输入手机号"/>
     </div>
   </div>
 </template>
